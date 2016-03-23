@@ -1,4 +1,4 @@
-cask :v1 => 'telegram' do
+cask 'telegram-osx' do
   version :latest
   sha256 :no_check
 
